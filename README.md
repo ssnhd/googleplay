@@ -5,6 +5,6 @@
 
 ## 更改地区
 1. 打开 https://policies.google.com/country-association-form 选择国家/地区，勾选理由，点击**提交**；
-2. 提交后等待几个工作日，谷歌会发邮件通知是否更改成功。
+2. 提交后等待几小时或几个工作日，谷歌会发邮件通知。
 
-【注】谷歌会根据你日常使用 IP 来判断是否支持更改。每年只能更改一次国家/地区，官方指引：[点击这里](https://support.google.com/googleplay/answer/7431675?hl=zh-Hans)。
+官方指引：[点击这里](https://support.google.com/googleplay/answer/7431675?hl=zh-Hans)。
