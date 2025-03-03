@@ -7,4 +7,6 @@
 1. 用美国 IP 打开 https://policies.google.com/country-association-form 选择国家/地区，勾选理由，点击**提交**；
 2. 提交后等待几小时或几个工作日，谷歌会发邮件通知是否更改成功。
 
+注：一年只能更改一次地区，若上次更改未满一年则无法再改。
+
 官方指引：https://support.google.com/googleplay/answer/7431675?hl=zh-Hans
